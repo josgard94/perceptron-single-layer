@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
 
 	#initialize perceptron
-	obj_perceptron = perceptron(eta, epacas)
+	obj_perceptron = perceptron(eta, epocas)
 	#training perceptron
 	model = obj_perceptron.training(data,labels);
 
