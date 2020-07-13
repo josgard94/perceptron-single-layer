@@ -28,7 +28,7 @@ if __name__ == '__main__':
 
 	#initialize perceptron
 	obj_perceptron = perceptron(eta, epacas)
-
+	#training perceptron
 	model = obj_perceptron.training(data,labels);
 
 	#plot errors
