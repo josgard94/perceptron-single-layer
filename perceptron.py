@@ -7,7 +7,7 @@ class perceptron:
         self.eta = eta;
         self.iterations = iterations;
 
-
+    #función para realizar el entrenamiento del perceptro.
     def  training(self, data, labels):
     	self.tetha = np.zeros(1 + data.shape[1])
     	self.errors_ = []
@@ -27,7 +27,7 @@ class perceptron:
     	return self
 
 
-
+    #función de activacion
     def predict(self, data):
     	phi = np.where(self.calculation_valor_z(data) >= 0.0, 1, -1)
     	return phi
