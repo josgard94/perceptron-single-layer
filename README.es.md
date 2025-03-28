@@ -32,11 +32,11 @@ Este algoritmo es un **clasificador lineal binario**, usado para **aprendizaje s
 
 ## 📸 Resultados
 
-### 🔹 Frontera de Decisión
-![Frontera de Decisión](https://github.com/josgard94/perceptron-single-layer/blob/main/screenshots/result1.png)
+### 🔹 Ejemplo Frontera de Decisión 1
+![Frontera de Decisión](https://github.com/josgard94/perceptron-single-layer/blob/master/result.png)
 
-### 🔹 Proceso de Aprendizaje
-![Proceso de Aprendizaje](https://github.com/josgard94/perceptron-single-layer/blob/main/screenshots/result2.png)
+### 🔹 Ejemplo Fronter de Decisión 2
+![Proceso de Aprendizaje](https://github.com/josgard94/perceptron-single-layer/blob/master/result2.png)
 
 ---
 
