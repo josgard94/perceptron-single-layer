@@ -45,6 +45,11 @@ Make sure you have Python 3 and the required dependencies installed:
 ```bash
 pip install -r requirements.txt
 ```
+Then run the main script:
+```bash 
+python main.py
+```
+
 ## 📚 References
  - Rosenblatt, F. (1958). The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain.
 
